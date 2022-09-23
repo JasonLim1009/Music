@@ -60,6 +60,13 @@
     font-weight: 400;
     margin-left: 15px;
 }
+.right-col img{
+    border-radius: 100%;
+    transition: 0.5s;
+}
+.right-col img:hover{
+    box-shadow: 0 0 50px 0 rgba(245, 248, 8, 0.8);
+}
 #iron{
     width: 80px;
     cursor: pointer;
